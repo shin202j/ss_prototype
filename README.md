@@ -1,6 +1,6 @@
 # ss_proto
 
-A new Flutter project.
+Multi-Scale Connection
 
 ## Getting Started
 
